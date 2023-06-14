@@ -5,3 +5,5 @@ Wiki of project: https://fightland-rpg.fandom.com/ru/wiki/FightLand_-_RPG_%D0%92
 To play you need to download  FightLandClient.rar from latest release: https://github.com/Mikoleso/FightLandProjectRelease/releases/tag/v1.0.0.
 
 No, the server is currently private.
+
+Have fun!
